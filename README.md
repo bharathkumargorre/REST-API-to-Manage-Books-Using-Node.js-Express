@@ -1,4 +1,4 @@
-# REST-API-to-Manage-Books-Using-Node.js-Express
+# Book-Management-REST-API
 
 # 📚 Book Management REST API
 
